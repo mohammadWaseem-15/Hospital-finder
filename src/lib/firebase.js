@@ -7,13 +7,13 @@ import {
 } from 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCLtdCKtq3QrqPExjqe2u7oLlx14VaYEeE",
-    authDomain: "hospital-finder-84026.firebaseapp.com",
-    projectId: "hospital-finder-84026",
-    storageBucket: "hospital-finder-84026.appspot.com",
-    messagingSenderId: "409222533042",
-    appId: "1:409222533042:web:20d028aa6f8717b450deab",
-    measurementId: "G-7YDPR69LJJ"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 // Initialize Firebase
